@@ -133,10 +133,6 @@ Key SQL operations performed:
 
 ### Example SQL Query
 
-
-images/sqlquery1.png
-images/sqlquery2.png
-
 ```sql
 SELECT subscription_status,
        COUNT(customer_id) AS repeat_buyers
@@ -157,15 +153,6 @@ Dashboard features include:
 * Trend analysis
 * Category-level performance
 * Interactive filtering
-
-### Dashboard Preview
-
-
-```
-images/dashboard.png
-```
-
----
 
 # Key Insights
 
