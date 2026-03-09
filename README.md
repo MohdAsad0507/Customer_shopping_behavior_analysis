@@ -100,12 +100,7 @@ Key steps:
 
 ### Example Visualization
 
-
-```
 images/dashboard.png
-```
-
----
 
 ## 3. Data Cleaning
 
@@ -160,7 +155,6 @@ Dashboard features include:
 
 ### Dashboard Preview
 
-*(Add dashboard screenshots here)*
 
 ```
 images/dashboard.png
